@@ -1,0 +1,12 @@
+#body{
+	background: sky blue;
+	font: 12px Arial, Helbetica;
+}
+.tb2{
+	background-color: white;
+	border-collapse: collapse;
+	border: 1px;
+	width: 50%;
+	height: auto;
+	font-size: large;
+}
